@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import java.io.File;
 
 public class Test_AppConfig_4 {
-    /*
+    
     final static String path = "./src/test/resources/";
     final static String CONFIG_YAML = path + "config.yaml";
     final static String TEST_YAML = path + "test.yaml";
